@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.NE_Project.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\sekker\Documents\GitHub\New-Era-WarGame-Project\NE_Project\.idea\.idea.NE_Project\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
