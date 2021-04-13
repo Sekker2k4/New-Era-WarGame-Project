@@ -1,3 +1,4 @@
+using Code.Weapon_Skills_System;
 using UnityEngine;
 
 namespace Code.Unit_Builder
@@ -5,7 +6,7 @@ namespace Code.Unit_Builder
     public class Unit : MonoBehaviour
     {
         public Skills[] skills;
-        public Weapon[] weapons;
+        public WeaponItem[] weapons;
         public Doctrine[] doctrines;
         public GameObject unitModel;
         public Animator unitAnimator;
