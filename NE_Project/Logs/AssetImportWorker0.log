@@ -606,3 +606,312 @@ System memory in use after: 197.5 MB.
 Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5550.
 Total: 4.136200 ms (FindLiveObjects: 0.329700 ms CreateObjectMapping: 0.297200 ms MarkObjects: 2.044800 ms  DeleteObjects: 1.463600 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 161.169898 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System
+  artifactKey: Guid(275c1c06bc23e0e4195816c6f540bdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System using Guid(275c1c06bc23e0e4195816c6f540bdb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e627ae22138922f497ea39242dc63f') in 0.009864 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003336 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.918 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.0 MB.
+System memory in use after: 197.5 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5554.
+Total: 4.067200 ms (FindLiveObjects: 0.352800 ms CreateObjectMapping: 0.289400 ms MarkObjects: 1.942300 ms  DeleteObjects: 1.482200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.215141 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/NewBehaviourScript.cs
+  artifactKey: Guid(11ee7e39668130a4f8018e74a41bac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/NewBehaviourScript.cs using Guid(11ee7e39668130a4f8018e74a41bac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c57dd716106ef25a30d2dc199ea3b2') in 0.007145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 14.144703 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillTemplate.cs
+  artifactKey: Guid(11ee7e39668130a4f8018e74a41bac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillTemplate.cs using Guid(11ee7e39668130a4f8018e74a41bac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d5f7d717b57e8aadbd1ce6d04169db4') in 0.006685 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002940 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.8 MB.
+System memory in use after: 197.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5557.
+Total: 4.313400 ms (FindLiveObjects: 0.516800 ms CreateObjectMapping: 0.356800 ms MarkObjects: 1.967400 ms  DeleteObjects: 1.471200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.977028 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillTemplate.cs
+  artifactKey: Guid(11ee7e39668130a4f8018e74a41bac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillTemplate.cs using Guid(11ee7e39668130a4f8018e74a41bac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35ebc6555794c27ccd2ccaa1852dccbb') in 0.005382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 95.018443 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillTemplate.cs
+  artifactKey: Guid(11ee7e39668130a4f8018e74a41bac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillTemplate.cs using Guid(11ee7e39668130a4f8018e74a41bac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10d1fdf40eee07c308e4618494cafe15') in 0.001884 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003171 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.946 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.0 MB.
+System memory in use after: 197.5 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5560.
+Total: 4.235900 ms (FindLiveObjects: 0.462400 ms CreateObjectMapping: 0.312300 ms MarkObjects: 2.021500 ms  DeleteObjects: 1.438800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.966307 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillsTemplate.cs
+  artifactKey: Guid(11ee7e39668130a4f8018e74a41bac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillsTemplate.cs using Guid(11ee7e39668130a4f8018e74a41bac54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c62b9f4473fb35613e7ec0605131c9ae') in 0.009572 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003050 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.004 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4827 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.1 MB.
+System memory in use after: 197.5 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5563.
+Total: 4.328900 ms (FindLiveObjects: 0.483300 ms CreateObjectMapping: 0.327300 ms MarkObjects: 2.054600 ms  DeleteObjects: 1.463000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.074952 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillOne.cs
+  artifactKey: Guid(263cde2575ca08945b42d185f72d03f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillOne.cs using Guid(263cde2575ca08945b42d185f72d03f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '500ced78b380b44b172cd72076e31ceb') in 0.009013 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.015 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4828 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.1 MB.
+System memory in use after: 197.6 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5567.
+Total: 4.314500 ms (FindLiveObjects: 0.334200 ms CreateObjectMapping: 0.295800 ms MarkObjects: 2.195500 ms  DeleteObjects: 1.488100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.801303 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillTwo.cs
+  artifactKey: Guid(ad7e1f4423029ac4d82eae9734bb3b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillTwo.cs using Guid(ad7e1f4423029ac4d82eae9734bb3b30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63318f2fa7b06b84db12aa3590173ee0') in 0.008570 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003145 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.999 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4829 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.1 MB.
+System memory in use after: 197.6 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5571.
+Total: 4.021100 ms (FindLiveObjects: 0.342500 ms CreateObjectMapping: 0.283900 ms MarkObjects: 1.898400 ms  DeleteObjects: 1.495100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.341189 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillThree.cs
+  artifactKey: Guid(4c93ac018a70e3241bfae13e3efd3251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillThree.cs using Guid(4c93ac018a70e3241bfae13e3efd3251) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acf9bfcd6027dfe2b5ebb75764dd62ae') in 0.009047 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003277 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.021 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4830 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.0 MB.
+System memory in use after: 197.4 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5575.
+Total: 4.396200 ms (FindLiveObjects: 0.411800 ms CreateObjectMapping: 0.354400 ms MarkObjects: 2.164300 ms  DeleteObjects: 1.464700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.585992 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillFour.cs
+  artifactKey: Guid(406ec8bbfef3ef945a2e9b78b3c8977a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillFour.cs using Guid(406ec8bbfef3ef945a2e9b78b3c8977a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425c8efd6d7c208ba74eaa11378bca00') in 0.007847 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003043 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.007 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4831 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.2 MB.
+System memory in use after: 197.7 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5579.
+Total: 4.406400 ms (FindLiveObjects: 0.552500 ms CreateObjectMapping: 0.373100 ms MarkObjects: 2.032700 ms  DeleteObjects: 1.447100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.140919 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillFive.cs
+  artifactKey: Guid(e2015d0914d34c04b9f0c58c99bf91d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillFive.cs using Guid(e2015d0914d34c04b9f0c58c99bf91d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b869888cb0b3efb6bfd0123a730567') in 0.007444 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002913 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.980 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4832 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.2 MB.
+System memory in use after: 197.7 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5583.
+Total: 4.022200 ms (FindLiveObjects: 0.318000 ms CreateObjectMapping: 0.244100 ms MarkObjects: 1.884500 ms  DeleteObjects: 1.574900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.382270 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillOne.cs
+  artifactKey: Guid(263cde2575ca08945b42d185f72d03f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillOne.cs using Guid(263cde2575ca08945b42d185f72d03f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9255125ef695600abbbd50e7c0f67ef') in 0.005735 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002969 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.988 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4832 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.2 MB.
+System memory in use after: 197.7 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5586.
+Total: 5.824400 ms (FindLiveObjects: 0.452100 ms CreateObjectMapping: 0.278300 ms MarkObjects: 2.773700 ms  DeleteObjects: 2.319300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 221.208919 seconds.
+  path: Assets/Scripts/Code/Weapon Skills System/WeaponSkillOne.cs
+  artifactKey: Guid(263cde2575ca08945b42d185f72d03f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Weapon Skills System/WeaponSkillOne.cs using Guid(263cde2575ca08945b42d185f72d03f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5a28af38b02082f1f4844efbd72246') in 0.005310 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003227 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.000 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4832 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.2 MB.
+System memory in use after: 197.7 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5589.
+Total: 4.105500 ms (FindLiveObjects: 0.458000 ms CreateObjectMapping: 0.301600 ms MarkObjects: 1.777200 ms  DeleteObjects: 1.567800 ms)
+
