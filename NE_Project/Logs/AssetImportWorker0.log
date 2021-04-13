@@ -306,3 +306,303 @@ Received Import Request.
   path: Assets/Scenes/SampleScene.unity
   artifactKey: Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scenes/SampleScene.unity using Guid(3db1837cc97a95e4c98610966fac2b0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f77c8f25de5b483e8d4be8db233a2ed') in 0.002285 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 76.866940 seconds.
+  path: Assets/Scripts/Code/Skills System/SkillsSystemTemplate.cs
+  artifactKey: Guid(ec266a64d35233941bb7234480667e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/SkillsSystemTemplate.cs using Guid(ec266a64d35233941bb7234480667e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2116a93ee1934501f630141a2678c760') in 0.005309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 123.122877 seconds.
+  path: Assets/Scripts/Code/Skills System/SkillsSystemTemplate.cs
+  artifactKey: Guid(ec266a64d35233941bb7234480667e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/SkillsSystemTemplate.cs using Guid(ec266a64d35233941bb7234480667e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c841e35baf193ad2f8d3873336b189f') in 0.002024 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003038 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.934 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4821 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.8 MB.
+System memory in use after: 197.3 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5524.
+Total: 4.808000 ms (FindLiveObjects: 0.500800 ms CreateObjectMapping: 0.412100 ms MarkObjects: 2.308000 ms  DeleteObjects: 1.586000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.727593 seconds.
+  path: Assets/Scripts/Code/Skills System/SkillsSystemTemplate.cs
+  artifactKey: Guid(ec266a64d35233941bb7234480667e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/SkillsSystemTemplate.cs using Guid(ec266a64d35233941bb7234480667e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '190683ed33cdc3b3ea914406dc573a1b') in 0.005921 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 85.882335 seconds.
+  path: Assets/Scripts/Code/Skills System/SkillsSystemTemplate.cs
+  artifactKey: Guid(ec266a64d35233941bb7234480667e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/SkillsSystemTemplate.cs using Guid(ec266a64d35233941bb7234480667e3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99a278df13c6cb19f2537b77d8c5dfb6') in 0.001705 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003465 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.031 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.9 MB.
+System memory in use after: 197.4 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5528.
+Total: 4.322300 ms (FindLiveObjects: 0.427800 ms CreateObjectMapping: 0.289400 ms MarkObjects: 2.190900 ms  DeleteObjects: 1.413300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.976629 seconds.
+  path: Assets/Scripts/Code/Skills System/SkillOne.cs
+  artifactKey: Guid(652938dcf9fa46fcbaf4b9df2b89a109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/SkillOne.cs using Guid(652938dcf9fa46fcbaf4b9df2b89a109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6274fcbea23e54869344b3a247c067d0') in 0.008322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.776664 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill.cs
+  artifactKey: Guid(652938dcf9fa46fcbaf4b9df2b89a109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill.cs using Guid(652938dcf9fa46fcbaf4b9df2b89a109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c27a27337dfc8e0f6b4913ebbe24838a') in 0.006265 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002946 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.021 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.9 MB.
+System memory in use after: 197.4 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5531.
+Total: 4.121000 ms (FindLiveObjects: 0.482200 ms CreateObjectMapping: 0.315200 ms MarkObjects: 1.895600 ms  DeleteObjects: 1.427200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.418100 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill.cs
+  artifactKey: Guid(652938dcf9fa46fcbaf4b9df2b89a109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill.cs using Guid(652938dcf9fa46fcbaf4b9df2b89a109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c374849f7cd68a935f445ce1e05b2a9') in 0.006004 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004348 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.999 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.9 MB.
+System memory in use after: 197.4 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5534.
+Total: 4.593100 ms (FindLiveObjects: 0.370500 ms CreateObjectMapping: 0.471900 ms MarkObjects: 2.091500 ms  DeleteObjects: 1.658200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.593215 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill.cs
+  artifactKey: Guid(652938dcf9fa46fcbaf4b9df2b89a109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill.cs using Guid(652938dcf9fa46fcbaf4b9df2b89a109) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1434f416e13a9bccbbc50686b85bd276') in 0.007784 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003279 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.968 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4822 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 199.7 MB.
+System memory in use after: 197.2 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5537.
+Total: 5.098000 ms (FindLiveObjects: 0.463100 ms CreateObjectMapping: 0.357300 ms MarkObjects: 2.137800 ms  DeleteObjects: 2.138600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.909429 seconds.
+  path: Assets/Scripts/Code/Skills System/1.asset
+  artifactKey: Guid(4b61803b7a966ce4f918f98fb81c9d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/1.asset using Guid(4b61803b7a966ce4f918f98fb81c9d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee4138876d5e081fe2c0e393295fa552') in 0.014349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.528019 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill1.cs
+  artifactKey: Guid(1a0f2c169d7479c4c8f4e5138cddef54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill1.cs using Guid(1a0f2c169d7479c4c8f4e5138cddef54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb6c8a4a614eb4a2336b0fc7a53217d') in 0.006332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.515938 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill2.cs
+  artifactKey: Guid(ba90500f7e7d8f344ad965053d4629ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill2.cs using Guid(ba90500f7e7d8f344ad965053d4629ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed2a738e820f99cfcc31994daf5281fc') in 0.005755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.535380 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill3.cs
+  artifactKey: Guid(f378bf78ecbdac5449f5d369761a7c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill3.cs using Guid(f378bf78ecbdac5449f5d369761a7c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87b2a6d2cfa9d885041350859ccedbf2') in 0.005438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.291268 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill4.cs
+  artifactKey: Guid(27e3ed96a4973be4b991410917eb7185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill4.cs using Guid(27e3ed96a4973be4b991410917eb7185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef9d1cbfaef2d344ab3096d422fd02c0') in 0.005665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 43.234980 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill1.cs
+  artifactKey: Guid(1a0f2c169d7479c4c8f4e5138cddef54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill1.cs using Guid(1a0f2c169d7479c4c8f4e5138cddef54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8739fed1e668f1b01019110c0bff4808') in 0.002994 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.949 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4826 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.0 MB.
+System memory in use after: 197.5 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5544.
+Total: 6.019300 ms (FindLiveObjects: 0.635000 ms CreateObjectMapping: 0.542400 ms MarkObjects: 2.740000 ms  DeleteObjects: 2.100700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.926804 seconds.
+  path: Assets/Scripts/Code/Skills System/SecondSkill.cs
+  artifactKey: Guid(1a0f2c169d7479c4c8f4e5138cddef54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/SecondSkill.cs using Guid(1a0f2c169d7479c4c8f4e5138cddef54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af38e39a4c4dda0561ea96ecf1888d70') in 0.009690 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 49.811431 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill2.cs
+  artifactKey: Guid(ba90500f7e7d8f344ad965053d4629ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill2.cs using Guid(ba90500f7e7d8f344ad965053d4629ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95bb5345b758e9b0e376d8f9a7a835a4') in 0.001915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.133388 seconds.
+  path: Assets/Scripts/Code/Skills System/ThirdSkill.cs
+  artifactKey: Guid(ba90500f7e7d8f344ad965053d4629ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/ThirdSkill.cs using Guid(ba90500f7e7d8f344ad965053d4629ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02089b80c2b0608330a80cd14880ed3e') in 0.005932 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 54.509262 seconds.
+  path: Assets/Scripts/Code/Skills System/ThirdSkill.cs
+  artifactKey: Guid(ba90500f7e7d8f344ad965053d4629ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/ThirdSkill.cs using Guid(ba90500f7e7d8f344ad965053d4629ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27dc43ce83b7ad7475cec503a3e399ef') in 0.002060 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.503489 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill3.cs
+  artifactKey: Guid(f378bf78ecbdac5449f5d369761a7c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill3.cs using Guid(f378bf78ecbdac5449f5d369761a7c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ccad9c2c03b65b3cba049688203b20d') in 0.004865 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.454596 seconds.
+  path: Assets/Scripts/Code/Skills System/FourthSkill.cs
+  artifactKey: Guid(f378bf78ecbdac5449f5d369761a7c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FourthSkill.cs using Guid(f378bf78ecbdac5449f5d369761a7c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f167183d9b300052efe27aead73521') in 0.005907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 115.417770 seconds.
+  path: Assets/Scripts/Code/Skills System/FirstSkill4.cs
+  artifactKey: Guid(27e3ed96a4973be4b991410917eb7185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FirstSkill4.cs using Guid(27e3ed96a4973be4b991410917eb7185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b5afa5f38e7bdd18e6a4350b5cb90aa') in 0.002210 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003072 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.026 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4826 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.0 MB.
+System memory in use after: 197.5 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5547.
+Total: 4.854700 ms (FindLiveObjects: 0.404100 ms CreateObjectMapping: 0.406200 ms MarkObjects: 2.386800 ms  DeleteObjects: 1.656400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.754164 seconds.
+  path: Assets/Scripts/Code/Skills System/FifthSkill.cs
+  artifactKey: Guid(27e3ed96a4973be4b991410917eb7185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Code/Skills System/FifthSkill.cs using Guid(27e3ed96a4973be4b991410917eb7185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10825211aa6904d5a9382a652810a26f') in 0.008251 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002932 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.037 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4826 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 200.0 MB.
+System memory in use after: 197.5 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 5550.
+Total: 4.136200 ms (FindLiveObjects: 0.329700 ms CreateObjectMapping: 0.297200 ms MarkObjects: 2.044800 ms  DeleteObjects: 1.463600 ms)
+
